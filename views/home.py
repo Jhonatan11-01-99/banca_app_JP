@@ -5,6 +5,6 @@ def mostrar():
     st.markdown("""
                 
             Esta aplicacion permite simular creditos hipotecarios y vehiculares.
-            Proximamente se conectara con Supabase para guardar las simulaciobes
+            Proximamente se conectara con Supabase para guardar las simulaciones
             """
                 )
